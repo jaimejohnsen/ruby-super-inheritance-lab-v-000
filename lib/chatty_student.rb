@@ -7,6 +7,5 @@ class ChattyStudent < Student
 
   def raise_hand
     1.upto(10){super}
-
   end
 end
